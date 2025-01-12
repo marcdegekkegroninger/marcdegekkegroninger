@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @gekkegroninger
+- 👋 Hi, I’m @mrc7781
 - 👀 I’m interested in jekyll, php, ubuntu, debian
 - 🌱 I’m currently learning jekyll, php
-- 📫 How to reach me gekkegroninger[at]gmail.com
+- 📫 How to reach me mrc7781[at]gmail.com
 - ⚡ Fun fact: Ik ben een Gekke Groninger
-
-<!---
-marcdegekkegroninger/marcdegekkegroninger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
