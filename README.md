@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @marcblog
+- 👋 Hi, I’m @marcdegekkegroninger
 - 👀 I’m interested in jekyll, php, ubuntu, debian
 - 🌱 I’m currently learning jekyll, php
-- 📫 How to reach me email[at]marcackermann.nl
+- 📫 How to reach me marcdegekkegroninger[at]gmail.com
 - ⚡ Fun fact: Ik ben een Gekke Groninger
