@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mqrcblog
+- 👋 Hi, I’m @mqrcxyz
 - 👀 I’m interested in jekyll, php, ubuntu, debian
 - 🌱 I’m currently learning jekyll, php
-- 📫 How to reach me email[at]mqrc.blog
+- 📫 How to reach me email[at]mqrc.xyz
 - ⚡ Fun fact: Ik ben een Blogger
